@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akashp2605/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/akashp2605/Leet-Code/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/akashp2605/Leet-Code/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/akashp2605/Leet-Code/tree/master/0877-stone-game) |
 ## Recursion
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/akashp2605/Leet-Code/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/akashp2605/Leet-Code/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/akashp2605/Leet-Code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
