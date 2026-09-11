@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/akashp2605/Leet-Code/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/akashp2605/Leet-Code/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/akashp2605/Leet-Code/tree/master/0877-stone-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/akashp2605/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akashp2605/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/akashp2605/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
